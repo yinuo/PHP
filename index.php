@@ -2,7 +2,7 @@
 session_start();
 //假设用户登录成功获得了一下用户数据
 $userinfo = array(
-	'uid'  => 10000,
+    'uid'  => 10000,
     'name' => 'spark',
     'email' => 'spark@imooc.com',
     'sex'  => 'man',
